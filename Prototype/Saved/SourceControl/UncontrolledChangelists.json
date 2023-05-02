@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/media/Documents/GitHub/jamxr/Prototype/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/media/Documents/GitHub/jamxr/Prototype/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/media/Documents/GitHub/jamxr/Prototype/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/media/Documents/GitHub/jamxr/Prototype/Content/VRTemplate/Blueprints/Grabbable_SmallCube.uasset",
+				"C:/Users/media/Documents/GitHub/jamxr/Prototype/Content/StarterContent/Blueprints/BP_GrabObjSound.uasset"
+			]
+		}
+	]
+}
