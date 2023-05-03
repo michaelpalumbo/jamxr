@@ -1,6 +1,9 @@
 # unreal log files
 Prototype/Saved/Logs/
 
+# unreal autosaves
+Prototype/Saved/Autosaves
+
 # unreal crash reports
 Prototype/Saved/Crashes
 Prototype/Saved/Config/CrashReportClient
