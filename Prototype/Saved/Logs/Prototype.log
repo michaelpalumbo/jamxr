@@ -3731,3 +3731,11 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.03-00.04.09:364][477]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
 [2023.05.03-00.04.09:382][477]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
 [2023.05.03-00.04.09:434][478]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2023.05.03-00.11.30:871][762]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.03-00.11.30:996][762]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.05.03-00.11.31:026][762]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VR_GrabSoundMap
+[2023.05.03-00.11.31:027][762]LogSavePackage: Moving '../../../../../../Users/media/Documents/GitHub/jamxr/Prototype/Saved/VR_GrabSoundMap2AD6B31A47F930B83AE0659D647EB38A.tmp' to '../../../../../../Users/media/Documents/GitHub/jamxr/Prototype/Content/VRTemplate/Maps/VR_GrabSoundMap.umap'
+[2023.05.03-00.11.31:039][762]LogFileHelpers: Saving map 'VR_GrabSoundMap' took 0.100
+[2023.05.03-00.11.31:050][762]LogFileHelpers: InternalPromptForCheckoutAndSave took 178 ms (total: 794 ms)
+[2023.05.03-00.11.31:060][762]AssetCheck: New page: Asset Save: VR_GrabSoundMap
+[2023.05.03-00.11.31:060][762]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VR_GrabSoundMap.VR_GrabSoundMap
