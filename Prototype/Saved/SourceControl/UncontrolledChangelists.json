@@ -15,7 +15,9 @@
 				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/VREditor/BasicMeshes/MI_Cube_01.uasset",
 				"C:/Users/media/Documents/GitHub/jamxr/Prototype/Content/StarterContent/Blueprints/BP_MetaSoundWind.uasset",
 				"C:/Users/media/Documents/GitHub/jamxr/Prototype/Content/VRTemplate/Maps/VR_GrabSoundMap.umap",
-				"C:/Users/media/Documents/GitHub/jamxr/Prototype/Content/VRTemplate/Maps/VR_Template_Actor_Location.umap"
+				"C:/Users/media/Documents/GitHub/jamxr/Prototype/Content/VRTemplate/Maps/VR_Template_Actor_Location.umap",
+				"C:/Users/media/Documents/GitHub/jamxr/Prototype/Content/MetaSounds/SimpleTriangle.uasset",
+				"C:/Users/media/Documents/GitHub/jamxr/Prototype/Content/StarterContent/Blueprints/Actor_SimpleTriangle.uasset"
 			]
 		}
 	]
