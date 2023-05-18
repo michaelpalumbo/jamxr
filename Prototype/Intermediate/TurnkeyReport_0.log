@@ -1,0 +1,3 @@
+Android: (Status=Invalid, Allowed_Sdk=r25b, Current_Sdk=, Allowed_AutoSdk=r25b, Current_AutoSdk=, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+IOS: (Status=Valid, MinAllowed_Sdk=13.4.0, MaxAllowed_Sdk=14.9.9, Current_Sdk=14.3, Allowed_AutoSdk=13.3, Current_AutoSdk=, Flags="InstalledSdk_ValidVersionExists")
+Mac: (Status=Valid, MinAllowed_Sdk=13.4.0, MaxAllowed_Sdk=14.9.9, Current_Sdk=14.3, Allowed_AutoSdk=13.3, Current_AutoSdk=, Flags="InstalledSdk_ValidVersionExists")
